@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practica/1.0.0": {
+        "dependencies": {
+          "CapaVista": "1.0.0"
+        },
+        "runtime": {
+          "Practica.dll": {}
+        }
+      },
+      "CapaControladores/1.0.0": {
+        "dependencies": {
+          "CapaDatos": "1.0.0"
+        },
+        "runtime": {
+          "CapaControladores.dll": {}
+        }
+      },
+      "CapaDatos/1.0.0": {
+        "runtime": {
+          "CapaDatos.dll": {}
+        }
+      },
+      "CapaVista/1.0.0": {
+        "dependencies": {
+          "CapaControladores": "1.0.0"
+        },
+        "runtime": {
+          "CapaVista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaControladores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaVista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
