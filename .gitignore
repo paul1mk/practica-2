@@ -2,12 +2,5 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Practica/FileContentIndex/read.lock
-/.vs/Practica/FileContentIndex/d4587eed-67f1-4c07-a7bb-06dab6f3c496.vsidx
-/.vs/Practica/FileContentIndex/c615f45c-09f3-4bcf-bb91-b35e524ec609.vsidx
-/.vs/Practica/FileContentIndex/5a2f30c8-698f-4add-b119-4f84306b3fc1.vsidx
-/.vs/Practica/FileContentIndex/44498815-070c-4fdb-b64c-c25f18173c31.vsidx
-/.vs/Practica/FileContentIndex
-/.vs/Practica/DesignTimeBuild/.dtbcache.v2
-/.vs/Practica/DesignTimeBuild
-/.vs/Practica
+/.vs/Practica/FileContentIndex/f77d2577-c117-4bb2-9c94-e6d20bd57b3c.vsidx
+/.vs/Practica/FileContentIndex/f77d2577-c117-4bb2-9c94-e6d20bd57b3c.vsidx
