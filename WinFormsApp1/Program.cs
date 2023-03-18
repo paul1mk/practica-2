@@ -1,4 +1,6 @@
 using CapaVista;
+using Practica.Properties;
+using System.Configuration;
 
 namespace WinFormsApp1
 {
@@ -12,8 +14,10 @@ namespace WinFormsApp1
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
+            
             ApplicationConfiguration.Initialize();
             Application.Run(new CRUD());
+            
         }
     }
 }

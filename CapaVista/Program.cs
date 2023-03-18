@@ -1,7 +1,11 @@
+using CapaDatos;
+
 namespace CapaVista
 {
     internal static class Program
     {
+        //public static CapaDatos.CatPersona.Persona ConfigViewModel;
+
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
